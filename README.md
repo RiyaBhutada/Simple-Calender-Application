@@ -116,7 +116,7 @@ Invalid:
 
 ---
 
-## 👨‍💻 Author & Tools
+## 👨‍💻 Tools
 
 - Built using Java 24+
 - IDE used: Visual Studio Code (VS Code)
